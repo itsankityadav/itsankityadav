@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)](https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile%20views&color=0e75b6&style=flat" alt="itsankityadav" /> </p>
 
