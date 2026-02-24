@@ -17,13 +17,13 @@
 
 > *"First, solve the problem. Then, write the code."*
 
-I'm a **Full Stack Web Developer** at **Westonik** 🏢, crafting performant websites and WordPress solutions. Currently leveling up across the full modern web stack.
+I'm a **Full Stack Web Developer** at **Westonik**, building high-performance websites, WordPress ecosystems, and scalable digital solutions.
 
-- 💼 **Role:** Full Stack Web Developer @ **Westonik**
-- 🔭 **Working with:** HTML · CSS · JavaScript · Bootstrap · WordPress
-- 🌱 **Learning:** React · Next.js · PHP · Laravel · Node.js · DSA · GSAP
-- 🎯 **Mission 2026:** Master the full modern web stack — frontend to backend
-- 📍 **India** 🇮🇳
+- 💼 **Role:** Full Stack Web Developer @ Westonik  
+- 🔭 **Working with:** HTML · CSS · JavaScript · Bootstrap · WordPress  
+- 🌱 **Learning:** React · Next.js · PHP · Laravel · Node.js · DSA · GSAP  
+- 🎯 **Goal:** Grow into a complete modern full-stack engineer  
+- 📍 **India** 🇮🇳  
 - 📫 **Contact:** [itsankityadav.ltd@gmail.com](mailto:itsankityadav.ltd@gmail.com)
 
 <br clear="all"/>
@@ -32,7 +32,7 @@ I'm a **Full Stack Web Developer** at **Westonik** 🏢, crafting performant web
 
 ## 🛠️ Tech Stack
 
-**Currently Working With**
+### **Currently Working With**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,7 +41,7 @@ I'm a **Full Stack Web Developer** at **Westonik** 🏢, crafting performant web
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-**Actively Learning**
+### **Actively Learning**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -51,55 +51,6 @@ I'm a **Full Stack Web Developer** at **Westonik** 🏢, crafting performant web
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
   <img src="https://img.shields.io/badge/DSA-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </p>
-
----
-
-## 🎯 2026 Live Goal Tracker
-
-> 🖱️ **Interactive tracker** — click to update progress, streaks & weekly goals in real time.
-
-<!--
-  HOW TO USE:
-  1. Host the GoalTracker.jsx on Vercel / Netlify / your portfolio
-  2. Replace the link below with your deployed URL
-  3. Or embed as an <iframe> if your portfolio supports it
--->
-
-**👉 [Open My 2026 Goal Tracker →](https://your-portfolio-link.vercel.app)**
-
-> _Track my journey: React · Next.js · PHP · Laravel · WordPress Backend · Node.js · GSAP · DSA_
-
-```
-SKILL SNAPSHOT — Last Updated: Feb 2026
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  React.js          ██████░░░░░░░░░░░░░░   30%   🔥 In Progress
-  Next.js           ███░░░░░░░░░░░░░░░░░   15%   ⚡ Started
-  PHP (Advanced)    ████░░░░░░░░░░░░░░░░   20%   🔥 In Progress
-  Laravel           ██░░░░░░░░░░░░░░░░░░   10%   ⚡ Started
-  WP Backend        █████░░░░░░░░░░░░░░░   25%   🔥 In Progress
-  Node.js           ██░░░░░░░░░░░░░░░░░░   10%   ⚡ Started
-  GSAP              █░░░░░░░░░░░░░░░░░░░    5%   🎯 Planned
-  DSA               ███░░░░░░░░░░░░░░░░░   15%   ⚡ Started
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  OVERALL           ██░░░░░░░░░░░░░░░░░░   16%   🚀 LET'S GO!
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-```
-MONTHLY STREAK — 2026
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Jan ✅  Feb ✅  Mar 🔲  Apr 🔲  May 🔲  Jun 🔲
-  Jul 🔲  Aug 🔲  Sep 🔲  Oct 🔲  Nov 🔲  Dec 🔲
-
-  🔥 Streak: 2 months  |  🎯 Goal: 12/12
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-> 💡 _I manually update this snapshot monthly. For the live interactive version, visit the tracker link above._
 
 ---
 
