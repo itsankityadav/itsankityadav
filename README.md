@@ -1,16 +1,11 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║            Hello World! I'm Ankit Yadav 👨‍💻              ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ankit+Yadav+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;WordPress+%26+PHP+Specialist+%F0%9F")](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;WordPress+%26+PHP+Specialist+%F0%9F%94%A5;React+%26+JS+Enthusiast+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile+Views&color=38bdf8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/itsankityadav?label=Followers&style=for-the-badge&color=38bdf8" />
+</p>
 
 </div>
 
@@ -18,56 +13,94 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding" width="340" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-I'm a **Full Stack Web Developer** at **[Westonik](https://westonik.com)** 🏢, building performant, scalable web solutions with a strong focus on WordPress ecosystems and modern JavaScript frameworks.
+> *"First, solve the problem. Then, write the code."*
 
-- 💼 **Currently:** Full Stack Web Developer @ **Westonik**
-- 🔭 **Building with:** HTML, CSS, JS, Bootstrap & WordPress (Frontend)
-- 🌱 **Learning:** React, Next.js, PHP, Laravel, WordPress Backend & Full Customization, Node.js & DSA
-- 🎯 **2026 Roadmap:** `React` · `Next.js` · `PHP` · `Laravel` · `WordPress Backend` · `Node.js` · `DSA` · `GSAP`
-- 💬 **Ask me about:** Frontend Development, WordPress, PHP
-- 📍 **Based in:** India 🇮🇳
-- 📫 **Reach me:** [itsankityadav.ltd@gmail.com](mailto:itsankityadav.ltd@gmail.com)
+I'm a **Full Stack Web Developer** at **Westonik** 🏢, crafting performant websites and WordPress solutions. Currently leveling up across the full modern web stack.
 
-<br clear="all" />
+- 💼 **Role:** Full Stack Web Developer @ **Westonik**
+- 🔭 **Working with:** HTML · CSS · JavaScript · Bootstrap · WordPress
+- 🌱 **Learning:** React · Next.js · PHP · Laravel · Node.js · DSA
+- 🎯 **Mission 2026:** Master the full modern web stack — frontend to backend
+- 📍 **India** 🇮🇳
+- 📫 **Contact:** [itsankityadav.ltd@gmail.com](mailto:itsankityadav.ltd@gmail.com)
+
+<br clear="all"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚡ Current Stack
+**Currently Working With**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-### 🚀 Learning & 2026 Roadmap
+**Actively Learning**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress_Backend-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DSA-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Goal Tracker
 
-```javascript
-const goals2026 = {
-  mastering:   ["WordPress Advanced", "React.js", "PHP", "Laravel"],
-  exploring:   ["GSAP Animations", "Node.js", "Headless WordPress"],
-  grinding:    ["Data Structures & Algorithms"],
-  mindset:     "Ship more. Learn faster. Build better. 🚀"
-};
+> Like GitHub contributions — every ✅ is a skill conquered. Every 🔲 is a challenge ahead.
+
+```
+SKILL PROGRESS BOARD — 2026 ROADMAP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  React.js                ██████░░░░░░░░░░░░░░   30%   🔥 In Progress
+  Next.js                 ███░░░░░░░░░░░░░░░░░░   15%   ⚡ Started
+  PHP (Advanced)          ████░░░░░░░░░░░░░░░░░   20%   🔥 In Progress
+  Laravel                 ██░░░░░░░░░░░░░░░░░░░   10%   ⚡ Started
+  WordPress Backend       █████░░░░░░░░░░░░░░░░   25%   🔥 In Progress
+  Node.js                 ██░░░░░░░░░░░░░░░░░░░   10%   ⚡ Started
+  GSAP Animations         █░░░░░░░░░░░░░░░░░░░░    5%   🎯 Planned
+  DSA (Problem Solving)   ███░░░░░░░░░░░░░░░░░░   15%   ⚡ Started
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  OVERALL 2026 PROGRESS   ██░░░░░░░░░░░░░░░░░░░   16%   🚀 LET'S GO!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+```
+MONTHLY CONSISTENCY STREAK — 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Jan  ✅  Feb  ✅  Mar  🔲  Apr  🔲  May  🔲  Jun  🔲
+  Jul  🔲  Aug  🔲  Sep  🔲  Oct  🔲  Nov  🔲  Dec  🔲
+
+  🔥 Current Streak  →  2 months
+  🏆 Best Streak     →  2 months
+  📅 Goal            →  12 / 12 months of consistent learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+```
+WEEKLY LEARNING LOG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Mon  ✅   Tue  ✅   Wed  ✅   Thu  🔲   Fri  🔲
+  Sat  🔲   Sun  🔲
+
+  📌 This week's focus  →  React.js Components & Hooks
+  📌 Next week's focus  →  PHP OOP & Laravel Routing
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
@@ -75,24 +108,27 @@ const goals2026 = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=tokyonight&hide_border=true" width="47%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/itsankityadav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:itsankityadav.ltd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/itsankityadav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -100,8 +136,8 @@ const goals2026 = {
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+**Thanks for visiting! Let's build something great together. ⭐**
 
-⭐️ **From [Ankit Yadav](https://github.com/itsankityadav)** — Open to collaborations & opportunities!
+*— Ankit Yadav · Westonik · India 🇮🇳*
 
 </div>
