@@ -23,9 +23,9 @@
 I'm a **Full Stack Web Developer** at **[Westonik](https://westonik.com)** 🏢, building performant, scalable web solutions with a strong focus on WordPress ecosystems and modern JavaScript frameworks.
 
 - 💼 **Currently:** Full Stack Web Developer @ **Westonik**
-- 🔭 **Building with:** HTML, CSS, JS, PHP, Bootstrap, WordPress, React
-- 🌱 **Deepening expertise in:** React.js & Advanced PHP
-- 🎯 **2026 Roadmap:** `WordPress` · `React` · `PHP` · `Laravel` · `GSAP` · `DSA` · `Node.js`
+- 🔭 **Building with:** HTML, CSS, JS, Bootstrap & WordPress (Frontend)
+- 🌱 **Learning:** React, Next.js, PHP, Laravel, WordPress Backend & Full Customization, Node.js & DSA
+- 🎯 **2026 Roadmap:** `React` · `Next.js` · `PHP` · `Laravel` · `WordPress Backend` · `Node.js` · `DSA` · `GSAP`
 - 💬 **Ask me about:** Frontend Development, WordPress, PHP
 - 📍 **Based in:** India 🇮🇳
 - 📫 **Reach me:** [itsankityadav.ltd@gmail.com](mailto:itsankityadav.ltd@gmail.com)
@@ -41,20 +41,20 @@ I'm a **Full Stack Web Developer** at **[Westonik](https://westonik.com)** 🏢,
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ### 🚀 Learning & 2026 Roadmap
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress_Backend-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/DSA-0EA5E9?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 </p>
 
 ---
