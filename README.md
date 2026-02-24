@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=38BDF8&center=true&vCenter=true&width=680&lines=Hello%2C+I'm+Ankit+Yadav;Full-Stack+Web+Developer;Crafting+Scalable+Web+Solutions;WordPress+%26+PHP+Expert+%7C+React+%26+Next.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ankit+Yadav;Full-Stack+Web+Developer;Building+Modern+Web+Experiences;WordPress+%26+PHP+Expert+%7C+React+%26+Next.js" alt="Typing SVG" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile+Views&color=38bdf8&style=flat-square" alt="Profile views" />
@@ -11,18 +11,19 @@
 
 ## 👋 About Me
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coding" width="420" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
-I'm a **Full-Stack Web Developer** at **Westonik**, focused on building performant, user-centric websites, custom WordPress solutions, and modern web applications.
+I'm a **Full-Stack Web Developer** at **Westonik**, passionate about creating fast, scalable, and beautiful web applications — from custom WordPress ecosystems to modern React/Next.js frontends.
 
-- 💼 **Currently** — Full-Stack Developer @ Westonik
-- 🔭 **Building** — High-performance web experiences with clean, maintainable code
-- 🌱 **Deepening** — React, Next.js, Laravel, Node.js, GSAP, Data Structures & Algorithms
-- 🎯 **2026 Goal** — Become a versatile full-stack engineer delivering end-to-end solutions
-- 📍 **Location** — Varanasi, India 🇮🇳
-- 📧 **Email** — [itsankityadav.ltd@gmail.com](mailto:itsankityadav.ltd@gmail.com)
+- 💼 **Currently** — Full-Stack Developer @ Westonik  
+- 🔭 **Working on** — High-performance websites, custom themes/plugins, interactive UIs  
+- 🌱 **Learning & Growing** — React, Next.js, Laravel, Node.js, GSAP, Data Structures & Algorithms  
+- 🎯 **2026 Goal** — Master end-to-end full-stack development & deliver production-grade solutions  
+- 📍 **Based in** — Varanasi, India 🇮🇳  
+- 📧 **Reach me** — [itsankityadav.ltd@gmail.com](mailto:itsankityadav.ltd@gmail.com)  
+- 😄 **Fun fact** — Code runs better with chai ☕
 
 <br clear="all"/>
 
@@ -30,7 +31,7 @@ I'm a **Full-Stack Web Developer** at **Westonik**, focused on building performa
 
 ## 🛠 Tech Stack
 
-### Core Technologies
+### Currently Using
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -40,7 +41,7 @@ I'm a **Full-Stack Web Developer** at **Westonik**, focused on building performa
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-### Advancing & Exploring
+### Leveling Up
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -52,24 +53,20 @@ I'm a **Full-Stack Web Developer** at **Westonik**, focused on building performa
 ---
 
 ## 🌟 Featured Projects
-Here are some of my highlighted works (pin your best repos on GitHub profile settings for auto-display):
+*(Pin your best repositories directly from GitHub profile settings for automatic showcase cards)*
 
-<!-- You can manually showcase with links if you want custom cards -->
-- **[Project 1 Name]** — Modern full-stack app using Next.js + Laravel  
-  [→ View Repo](https://github.com/itsankityadav/project-1) | [→ Live Demo](https://demo-link.com)
-- **[Custom WordPress Theme/Plugin]** — High-performance, SEO-optimized solution  
-  [→ View Repo](https://github.com/itsankityadav/wordpress-project)
-- **[React + GSAP Animation Showcase]** — Interactive UI experiments  
-  [→ View Repo](https://github.com/itsankityadav/gsap-demo)
+- **Modern Full-Stack Dashboard** → Next.js + Laravel + Tailwind  
+- **Premium WordPress Theme** → Custom Gutenberg blocks, high performance, SEO ready  
+- **GSAP Animation Portfolio** → Interactive landing page with smooth scroll & effects  
 
-*(Pin up to 6 repos directly on your GitHub profile for automatic cards — go to your profile → Customize pins)*
+[→ Check out my pinned repositories on profile top]
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="Ankit's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=tokyonight&hide_border=true" width="48%" alt="Contribution Streak" />
 </div>
 
@@ -79,10 +76,34 @@ Here are some of my highlighted works (pin your best repos on GitHub profile set
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsankityadav&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## ✍️ Random Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=itsankityadav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsankityadav" target="_blank">
+  <a href="https://linkedin.com/in/itsankityadav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:itsankityadav.ltd@gmail.com" target="_blank">
@@ -96,9 +117,9 @@ Here are some of my highlighted works (pin your best repos on GitHub profile set
 ---
 
 <div align="center">
-  <strong>Thanks for visiting my profile!</strong><br>
-  Open to interesting collaborations, freelance work, or full-time opportunities in modern web development.<br>
-  Feel free to reach out — let's create something exceptional together. 🚀
+  <strong>Thanks for visiting!</strong><br>
+  Open to collaborations, freelance projects, and exciting full-time opportunities.<br>
+  Let's build something amazing together. 🚀
   
-  *Ankit Yadav · Full-Stack Developer @ Westonik · India 🇮🇳*
+  *Ankit Yadav · Full-Stack Developer @ Westonik · Varanasi, India 🇮🇳*
 </div>
