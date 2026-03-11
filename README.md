@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Banner" width="100%" style="max-width:100%;" />
 
-<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_aboutus.png" alt="Banner" width="100%" style="max-width:100%;" />
+<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_aboutus1.png" alt="Banner" width="100%" style="max-width:100%;" />
 
 ### Currently Using
 <p align="left">
