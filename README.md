@@ -1,35 +1,55 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&pause=1400&color=38BDF8&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Ankit+Yadav;Full-Stack+Web+Developer;Building+Modern+Web+Experiences;WordPress+%26+PHP+Expert+%7C+React+%26+Next.js" alt="Typing SVG" />
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile+Views&color=38bdf8&style=flat-square" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/itsankityadav?style=flat-square&color=38bdf8&label=Followers" alt="Followers" />
-  </p>
+<!-- Banner Image - Replace the URL below with your banner image URL -->
+<img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Banner" width="100%" style="max-width:100%;" />
+
+<br/><br/>
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;WordPress+%26+PHP+Expert;React+%26+Next.js+Developer;Currently+%40+Westonik" alt="Typing SVG" />
+
+<br/>
+
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile+Views&color=38bdf8&style=flat-square" alt="Profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/itsankityadav?style=flat-square&color=38bdf8&label=Followers" alt="Followers" />
+
 </div>
 
----
-
-## 👋 About Me
-
-<img align="right" alt="Coding" width="420" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif" />
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
-I'm a **Full-Stack Web Developer** at **Westonik**, passionate about creating fast, scalable, and beautiful web applications — from custom WordPress ecosystems to modern React/Next.js frontends.
-
-* 💼 **Currently** — Full-Stack Developer @ Westonik
-* 🔭 **Working on** — High-performance websites, custom themes/plugins, interactive UIs
-* 🌱 **Learning & Growing** — React, Next.js, Laravel, Node.js, GSAP, Data Structures & Algorithms
-* 🎯 **2026 Goal** — Master end-to-end full-stack development & deliver production-grade solutions
-* 📍 **Based in** — Varanasi, India 🇮🇳
-* 📧 **Reach me** — [itsankityadav.ltd@gmail.com](mailto:itsankityadav.ltd@gmail.com)
-* 😄 **Fun fact** — Code runs better with chai ☕
-
-<br clear="all"/>
+<br/>
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I'm a <strong>Full-Stack Web Developer</strong> at <strong>Westonik</strong>, crafting fast, scalable, and beautiful web applications — from custom WordPress ecosystems to modern React/Next.js frontends.</p>
+      <p>Passionate about clean code, performance, and pixel-perfect UIs. Currently leveling up in full-stack development with a focus on shipping production-grade solutions.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Freelance-38bdf8?style=flat-square" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Available%20for-Full--time%20Roles-4ade80?style=flat-square" />
+    </td>
+    <td width="40%" valign="top">
+      <table>
+        <tr><td><strong>Role</strong></td><td>Full-Stack Developer @ Westonik</td></tr>
+        <tr><td><strong>Working On</strong></td><td>High-performance websites, custom themes/plugins, interactive UIs</td></tr>
+        <tr><td><strong>Learning</strong></td><td>React · Next.js · Laravel · Node.js · GSAP · DSA</td></tr>
+        <tr><td><strong>2026 Goal</strong></td><td>Master end-to-end full-stack development</td></tr>
+        <tr><td><strong>Location</strong></td><td>Allahabad, Prayagraj, India</td></tr>
+        <tr><td><strong>Email</strong></td><td><a href="mailto:itsankityadav.ltd@gmail.com">itsankityadav.ltd@gmail.com</a></td></tr>
+        <tr><td><strong>Fun Fact</strong></td><td>Code runs better with chai</td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
 
 ### Currently Using
 
@@ -40,6 +60,7 @@ I'm a **Full-Stack Web Developer** at **Westonik**, passionate about creating fa
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### Leveling Up
@@ -49,78 +70,100 @@ I'm a **Full-Stack Web Developer** at **Westonik**, passionate about creating fa
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 </p>
 
----
+### Tools & Platforms
 
-## 🌟 Featured Projects
-
-* **Modern Full-Stack Dashboard** → Next.js + Laravel + Tailwind
-* **Premium WordPress Theme** → Custom Gutenberg blocks, high performance, SEO ready
-* **GSAP Animation Portfolio** → Interactive landing page with smooth scroll & effects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsankityadav&theme=radical&no-frame=true&margin-w=15" />
-</div>
-
----
-
-## ✍️ Random Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=itsankityadav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/itsankityadav">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:itsankityadav.ltd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/itsankityadav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 </p>
 
 ---
 
+## Featured Projects
+
+> Pinned repositories are visible at the top of my GitHub profile
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Modern Full-Stack Dashboard</h3>
+      <p>Next.js + Laravel + Tailwind CSS — A production-grade dashboard with real-time data, authentication, and clean UI.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>Premium WordPress Theme</h3>
+      <p>Custom Gutenberg blocks, high performance, SEO ready — built for agencies and freelancers.</p>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>GSAP Animation Portfolio</h3>
+      <p>Interactive landing page with smooth scroll effects and cinematic animations.</p>
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+    <td width="50%">
+      <h3>More Coming Soon...</h3>
+      <p>Always building, always shipping. Stay tuned for more projects in 2026.</p>
+      <img src="https://img.shields.io/badge/Status-In_Progress-38bdf8?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" height="300" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=transparent&hide_border=false&langs_count=8&title_color=00BFFF&text_color=ffffff&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" height="300" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=transparent&hide_border=false&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=ffffff&dates=aaaaaa&background=0d1b2a&border=00BFFF&border_radius=10" height="300" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Let's Connect
+
 <div align="center">
 
-**Thanks for visiting! 🚀**
+  <a href="https://linkedin.com/in/itsankityadav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:itsankityadav.ltd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/itsankityadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-Open to collaborations, freelance projects, and exciting full-time opportunities.
+</div>
 
-**Ankit Yadav · Full-Stack Developer · Varanasi, India 🇮🇳**
-
+<div align="center">
+  <sub>Open to collaborations, freelance projects, and full-time opportunities.</sub><br/>
+  <sub><strong>Let's build something amazing together.</strong></sub><br/><br/>
+  <sub><em>Ankit Yadav · Full-Stack Developer @ Westonik · Allahabad, Prayagraj, India</em></sub>
 </div>
