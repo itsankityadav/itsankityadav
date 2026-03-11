@@ -1,55 +1,8 @@
-<div align="center">
-
-<!-- Banner Image - Replace the URL below with your banner image URL -->
 <img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Banner" width="100%" style="max-width:100%;" />
 
-
-<!-- Banner Image - Replace the URL below with your banner image URL -->
 <img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_aboutus.png" alt="Banner" width="100%" style="max-width:100%;" />
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;WordPress+%26+PHP+Expert;React+%26+Next.js+Developer;Currently+%40+Westonik" alt="Typing SVG" />
-
-<br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile+Views&color=38bdf8&style=flat-square" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/itsankityadav?style=flat-square&color=38bdf8&label=Followers" alt="Followers" />
-
-</div>
-
-<br/>
-
----
-
-## About Me
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I'm a <strong>Full-Stack Web Developer</strong> at <strong>Westonik</strong>, crafting fast, scalable, and beautiful web applications — from custom WordPress ecosystems to modern React/Next.js frontends.</p>
-      <p>Passionate about clean code, performance, and pixel-perfect UIs. Currently leveling up in full-stack development with a focus on shipping production-grade solutions.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Freelance-38bdf8?style=flat-square" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Available%20for-Full--time%20Roles-4ade80?style=flat-square" />
-    </td>
-    <td width="40%" valign="top">
-      <table>
-        <tr><td><strong>Role</strong></td><td>Full-Stack Developer @ Westonik</td></tr>
-        <tr><td><strong>Working On</strong></td><td>High-performance websites, custom themes/plugins, interactive UIs</td></tr>
-        <tr><td><strong>Learning</strong></td><td>React · Next.js · Laravel · Node.js · GSAP · DSA</td></tr>
-        <tr><td><strong>2026 Goal</strong></td><td>Master end-to-end full-stack development</td></tr>
-        <tr><td><strong>Location</strong></td><td>Allahabad, Prayagraj, India</td></tr>
-        <tr><td><strong>Email</strong></td><td><a href="mailto:itsankityadav.ltd@gmail.com">itsankityadav.ltd@gmail.com</a></td></tr>
-        <tr><td><strong>Fun Fact</strong></td><td>Code runs better with chai</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
 
 ## Tech Stack
 
