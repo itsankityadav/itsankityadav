@@ -3,7 +3,9 @@
 <!-- Banner Image - Replace the URL below with your banner image URL -->
 <img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Banner" width="100%" style="max-width:100%;" />
 
-<br/><br/>
+
+<!-- Banner Image - Replace the URL below with your banner image URL -->
+<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_aboutme.png" alt="Banner" width="100%" style="max-width:100%;" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;WordPress+%26+PHP+Expert;React+%26+Next.js+Developer;Currently+%40+Westonik" alt="Typing SVG" />
