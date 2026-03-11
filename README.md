@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image - Replace the URL below with your banner image URL -->
-<img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Banner" width="100%" style="max-width:100%;" />
+<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Banner" width="100%" style="max-width:100%;" />
 
 <br/><br/>
 
