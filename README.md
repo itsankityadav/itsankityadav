@@ -74,26 +74,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Achievements & GitHub Milestones
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center" style="padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" alt="Ankit's GitHub Stats" style="width: 100%; max-width: 480px; display: block;" />
-      </td>
-      <td width="50%" align="center" style="padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=transparent&hide_border=false&langs_count=8&title_color=00BFFF&text_color=ffffff&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" alt="Ankit's Languages Stats" style="width: 100%; max-width: 480px; display: block;" />
-      </td>
-    </tr>
-  </table>
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top: 10px;">
-    <tr>
-      <td width="100%" align="center" style="padding: 5px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=transparent&hide_border=false&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=ffffff&dates=aaaaaa&background=0d1b2a&border=00BFFF&border_radius=10" alt="Ankit's Commit Streak" style="width: 100%; max-width: 980px; display: block;" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-trophies.vercel.app/?username=itsankityadav&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Ankit's Trophies" width="100%" style="max-width: 850px;" />
+</div>
+
+<br />
+
+## 📈 Git Activity Insights
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsankityadav&bg_color=0d1b2a&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=false&border_radius=10" alt="Ankit's Contribution Graph" width="100%" style="max-width: 950px;" />
 </div>
 
 ---
