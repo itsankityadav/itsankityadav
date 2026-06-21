@@ -1,127 +1,119 @@
-<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Banner" width="100%" style="max-width:100%;" />
+<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Ankit Yadav Banner" width="100%" style="max-width:100%;" />
 
-<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_aboutus1.png" alt="Banner" width="100%" style="max-width:100%;" />
+<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_aboutus1.png" alt="About Me" width="100%" style="max-width:100%;" />
 
-### Currently Using
+### 🚀 Currently Cooking (Tech Stack)
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### Leveling Up
+### 📈 Leveling Up & 2026 Goals
 <p align="left">
-  <img src="https://img.shields.io/badge/Advanced_PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/DSA_in_Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
 </p>
 
-### 2026 Goals
+### 🛠️ Tools & Workflows
 <p align="left">
-  <img src="https://img.shields.io/badge/React_&_Next.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress_Expert-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA_in_Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
 </p>
 
 ---
 
-## Featured Projects
+## 💼 Featured Work & Live Deployments
 
-> Pinned repositories are visible at the top of my GitHub profile
+> Pinned repositories are live on my GitHub profile or deployed for corporate clients.
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3>Modern Full-Stack Dashboard</h3>
-      <p>Next.js + Laravel + Tailwind CSS — A production-grade dashboard with real-time data, authentication, and clean UI.</p>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>🛒 Multi-Vendor Marketplace</h3>
+      <p>Digital asset marketplace built with Laravel 11, featuring multi-level categories, strict KYC verification, automated SMTP setups, and multi-file storage engines.</p>
+      <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 11" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Architecture-MVC-blue?style=flat-square" alt="MVC" />
     </td>
-    <td width="50%">
-      <h3>Premium WordPress Theme</h3>
-      <p>Custom Gutenberg blocks, high performance, SEO ready — built for agencies and freelancers.</p>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>💼 Advanced Job Portal</h3>
+      <p>A high-performance Laravel application featuring a robust Multi-Auth system (Admin, Company, Candidate), dynamic subscription models, and triple payment gateways (PayPal, Stripe, Razorpay).</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Payment-Stripe_|_PayPal-blueviolet?style=flat-square" alt="Payments" />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>GSAP Animation Portfolio</h3>
-      <p>Interactive landing page with smooth scroll effects and cinematic animations.</p>
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <td width="50%" valign="top">
+      <h3>🏨 Ganga Inn Portal</h3>
+      <p>A premium hospitality web application focused on optimized core booking journeys, custom multi-viewport layouts, and flawless custom reservation routines.</p>
+      <img src="https://img.shields.io/badge/WordPress_Core-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+      <img src="https://img.shields.io/badge/PHP_Hooks-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/UX-Optimized-success?style=flat-square" alt="UX" />
     </td>
-    <td width="50%">
-      <h3>More Coming Soon...</h3>
-      <p>Always building, always shipping. Stay tuned for more projects in 2026.</p>
-      <img src="https://img.shields.io/badge/Status-In_Progress-38bdf8?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3>📦 MyWrap E-Commerce</h3>
+      <p>Highly custom e-commerce solution enabling complex, granular product variation rules, bespoke user layouts, and smooth dynamic checkout behavior via WooCommerce.</p>
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+      <img src="https://img.shields.io/badge/ACF_Pro-8A3391?style=flat-square" alt="ACF Pro" />
     </td>
   </tr>
 </table>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" height="300" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" alt="Ankit's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=transparent&hide_border=false&langs_count=8&title_color=00BFFF&text_color=ffffff&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" height="300" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=transparent&hide_border=false&langs_count=8&title_color=00BFFF&text_color=ffffff&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" alt="Ankit's Languages Stats" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=transparent&hide_border=false&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=ffffff&dates=aaaaaa&background=0d1b2a&border=00BFFF&border_radius=10" height="300" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=transparent&hide_border=false&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=ffffff&dates=aaaaaa&background=0d1b2a&border=00BFFF&border_radius=10" alt="Ankit's Commit Streak" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
-
   <a href="https://linkedin.com/in/itsankityadav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:itsankityadav.ltd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/itsankityadav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
 </div>
 
+<br />
+
 <div align="center">
-  <sub>Open to collaborations, freelance projects, and full-time opportunities.</sub><br/>
-  <sub><strong>Let's build something amazing together.</strong></sub><br/><br/>
-  <sub><em>Ankit Yadav · Full-Stack Developer @ Westonik · Allahabad, Prayagraj, India</em></sub>
+  <sub>Open to complex full-stack challenges, custom WordPress workflows, and premium plugin engineering.</sub><br/>
+  <sub><strong>Let's build scalable systems together.</strong></sub><br/><br/>
+  <sub><em>Ankit Yadav · Full-Stack Developer · Prayagraj, Uttar Pradesh, India</em></sub>
 </div>
