@@ -2,16 +2,17 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Prayagraj, India[cite: 1, 3]. [cite_start]I specialize in engineering scalable web applications and custom digital solutions[cite: 11, 12]. [cite_start]With hands-on corporate experience in production-ready environments, I bridge the gap between robust backend architectures and seamless user experiences[cite: 11].
+Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Prayagraj, India. I specialize in engineering scalable web applications and custom digital solutions. With hands-on corporate experience in production-ready environments, I bridge the gap between robust backend architectures and seamless user experiences.
 
-* [cite_start]💼 Formerly worked as a **Junior Full Stack Web Developer** at Westonik[cite: 8, 9].
-* [cite_start]🛠️ Expert in **Laravel, Core PHP, Custom WordPress Core (Themes & Plugins)**, and ecosystem migrations[cite: 6, 12, 22].
-* [cite_start]🚀 Currently architecting modern applications using **React.js, Next.js, and Node.js**[cite: 5].
-* [cite_start]⚡ Passionate about clean code, database optimization, and implementing secure API integrations[cite: 6, 17].
+- 💼 Formerly worked as a **Junior Full Stack Web Developer** at Westonik.
+- 🛠️ Expert in **Laravel, Core PHP, Custom WordPress (Themes & Plugins)**, and ecosystem migrations.
+- 🚀 Currently architecting modern applications using **React.js, Next.js, and Node.js**.
+- ⚡ Passionate about clean code, database optimization, and implementing secure API integrations.
 
 ---
 
 ### 🚀 Currently Cooking (Tech Stack)
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -25,6 +26,7 @@
 </p>
 
 ### 📈 Leveling Up & 2026 Goals
+
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -34,6 +36,7 @@
 </p>
 
 ### 🛠️ Tools & Workflows
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -46,20 +49,20 @@
 
 ## 💼 Featured Key Projects
 
-> [cite_start]Deeply engineered backends and application architectures[cite: 25, 26].
+**Deeply engineered backends and application architectures.**
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Multi-Vendor Marketplace</h3>
-      <p>A digital asset e-commerce marketplace engineered with Laravel 11. Implements strict dynamic KYC verification systems, secure automated SMTP configurations, multi-file system storage management, and advanced multi-level categorization logic[cite: 28].</p>
+      <p>A digital asset e-commerce marketplace engineered with Laravel 11. Implements strict dynamic KYC verification systems, secure automated SMTP configurations, multi-file system storage management, and advanced multi-level categorization logic.</p>
       <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 11" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Architecture-MVC-blue?style=flat-square" alt="MVC" />
     </td>
     <td width="50%" valign="top">
       <h3>💼 Advanced Job Portal (Laravel)</h3>
-      <p>A comprehensive professional job board engine featuring a robust Multi-Auth subsystem (Admin, Company, and Candidate tiers)[cite: 27]. Built with fully automated dynamic subscription flows and multi-gateway billing setups powered by Stripe, PayPal, and Razorpay[cite: 27].</p>
+      <p>A comprehensive professional job board engine featuring a robust Multi-Auth subsystem (Admin, Company, and Candidate tiers). Built with fully automated dynamic subscription flows and multi-gateway billing setups powered by Stripe, PayPal, and Razorpay.</p>
       <img src="https://img.shields.io/badge/Laravel_10_/_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/Payment-Stripe_|_PayPal_|_Razorpay-blueviolet?style=flat-square" alt="Payments" />
     </td>
@@ -67,7 +70,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 Job Portal (Core PHP)</h3>
-      <p>A highly secure standalone portal built on pure Object-Oriented PHP leveraging custom PDO architecture[cite: 29]. Features precise granular session-based security authentications, interactive CRUD CV builders, transactional PHPMailer operations, and dynamic boolean search filtering algorithms[cite: 29].</p>
+      <p>A highly secure standalone portal built on pure Object-Oriented PHP leveraging custom PDO architecture. Features precise granular session-based security authentications, interactive CRUD CV builders, transactional PHPMailer operations, and dynamic boolean search filtering algorithms.</p>
       <img src="https://img.shields.io/badge/Core_PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Database-PDO_MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="PDO" />
     </td>
@@ -105,10 +108,10 @@
 
 ## 🏆 Achievements & Milestones
 
-* [cite_start]**🎓 Hackathon Representative:** Represented the college engineering cohort at the regional **CodeChanakya Hackathon (2022)**[cite: 44].
-* [cite_start]**📜 Backend Specialization:** Awarded an official **Web-Backend Development Specialization Certificate** by United College of Engineering & Management[cite: 41].
-* [cite_start]**🤖 AI Exploration:** Certified in **Artificial Intelligence & Machine Learning** systems via Robustresults Pvt Ltd[cite: 42].
-* [cite_start]**🔒 Security Foundations:** Completed professional certification in **Cyber Security Fundamentals** backed by IIT Prutor[cite: 43].
+- **🎓 Hackathon Representative:** Represented the college engineering cohort at the regional **CodeChanakya Hackathon (2022)**.
+- **📜 Backend Specialization:** Awarded an official **Web-Backend Development Specialization Certificate** by United College of Engineering & Management.
+- **🤖 AI Exploration:** Certified in **Artificial Intelligence & Machine Learning** systems via Robustresults Pvt Ltd.
+- **🔒 Security Foundations:** Completed professional certification in **Cyber Security Fundamentals** backed by IIT Prutor.
 
 ---
 
@@ -129,9 +132,8 @@
 </div>
 
 <br />
-
 <div align="center">
   <sub>Open to complex full-stack challenges, custom API engineering, and large-scale applications development.</sub><br/>
   <sub><strong>Let's build scalable systems together.</strong></sub><br/><br/>
-  [cite_start]<sub><em>Ankit Yadav · Full-Stack Developer · Prayagraj, Uttar Pradesh, India [cite: 1, 3]</em></sub>
+  <sub><em>Ankit Yadav · Full-Stack Developer · Prayagraj, Uttar Pradesh, India</em></sub>
 </div>
