@@ -1,6 +1,15 @@
 <img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Ankit Yadav Banner" width="100%" style="max-width:100%;" />
 
-<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_aboutus1.png" alt="About Me" width="100%" style="max-width:100%;" />
+## 👨‍💻 About Me
+
+Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Prayagraj, India. I specialize in engineering scalable web applications and custom digital solutions. With hands-on corporate experience in production-ready environments, I bridge the gap between robust backend architectures and seamless user experiences.
+
+* 💼 Formerly worked as a **Junior Full Stack Web Developer** at Westonik.
+* 🛠️ Expert in **Laravel, Core PHP, Custom WordPress Core (Themes & Plugins)**, and ecosystem migrations.
+* 🚀 Currently architecting modern applications using **React.js, Next.js, and Node.js**.
+* ⚡ Passionate about clean code, database optimization, and implementing secure API integrations.
+
+---
 
 ### 🚀 Currently Cooking (Tech Stack)
 <p align="left">
@@ -43,7 +52,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Multi-Vendor Marketplace</h3>
-      <p>Digital asset marketplace built with Laravel 11, featuring multi-level categories, strict KYC verification, automated SMTP setups, and multi-file storage engines.</p>
+      <p>Digital asset marketplace built with Laravel 11, featuring multi-level categories, data validation, automated SMTP setups, and dynamic file storage systems.</p>
       <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 11" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Architecture-MVC-blue?style=flat-square" alt="MVC" />
@@ -74,18 +83,32 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top" style="padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" alt="Ankit's GitHub Stats" style="width: 100%; max-width: 460px; display: block;" />
+      </td>
+      <td width="50%" align="center" valign="top" style="padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=transparent&hide_border=false&langs_count=8&title_color=00BFFF&text_color=ffffff&bg_color=0d1b2a&border_color=00BFFF&border_radius=10" alt="Ankit's Languages Stats" style="width: 100%; max-width: 460px; display: block;" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top" style="padding: 10px 5px 5px 5px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=transparent&hide_border=false&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&sideLabels=ffffff&dates=aaaaaa&background=0d1b2a&border=00BFFF&border_radius=10" alt="Ankit's Commit Streak" style="width: 100%; max-width: 935px; display: block;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🏆 Achievements & GitHub Milestones
 
 <div align="center">
   <img src="https://github-readme-trophies.vercel.app/?username=itsankityadav&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Ankit's Trophies" width="100%" style="max-width: 850px;" />
-</div>
-
-<br />
-
-## 📈 Git Activity Insights
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsankityadav&bg_color=0d1b2a&color=00BFFF&line=00BFFF&point=ffffff&area=true&hide_border=false&border_radius=10" alt="Ankit's Contribution Graph" width="100%" style="max-width: 950px;" />
 </div>
 
 ---
