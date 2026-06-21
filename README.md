@@ -2,12 +2,12 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Prayagraj, India. I specialize in engineering scalable web applications and custom digital solutions. With hands-on corporate experience in production-ready environments, I bridge the gap between robust backend architectures and seamless user experiences.
+[cite_start]Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Prayagraj, India[cite: 1, 3]. I specialize in engineering scalable web applications and custom digital solutions. With hands-on corporate experience in production-ready environments, I bridge the gap between robust backend architectures and seamless user experiences.
 
-* 💼 Formerly worked as a **Junior Full Stack Web Developer** at Westonik.
-* 🛠️ Expert in **Laravel, Core PHP, Custom WordPress Core (Themes & Plugins)**, and ecosystem migrations.
+* [cite_start]💼 Formerly worked as a **Junior Full Stack Web Developer** at Westonik[cite: 8, 9, 10].
+* [cite_start]🛠️ Expert in **Laravel, Core PHP, Custom WordPress Core (Themes & Plugins)**, and ecosystem migrations[cite: 6, 12, 22].
 * 🚀 Currently architecting modern applications using **React.js, Next.js, and Node.js**.
-* ⚡ Passionate about clean code, database optimization, and implementing secure API integrations.
+* [cite_start]⚡ Passionate about clean code, database optimization, and implementing secure API integrations[cite: 6, 17].
 
 ---
 
@@ -52,14 +52,14 @@ Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Praya
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 Multi-Vendor Marketplace</h3>
-      <p>Digital asset marketplace built with Laravel 11, featuring multi-level categories, data validation, automated SMTP setups, and dynamic file storage systems.</p>
+      <p>Digital asset marketplace built with Laravel 11, featuring multi-level categories, data validation, automated SMTP setups, and dynamic file storage systems[cite: 28].</p>
       <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 11" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Architecture-MVC-blue?style=flat-square" alt="MVC" />
     </td>
     <td width="50%" valign="top">
       <h3>💼 Advanced Job Portal</h3>
-      <p>A high-performance Laravel application featuring a robust Multi-Auth system (Admin, Company, Candidate), dynamic subscription models, and triple payment gateways (PayPal, Stripe, Razorpay).</p>
+      <p>A high-performance Laravel application featuring a robust Multi-Auth system (Admin, Company, Candidate), dynamic subscription models, and triple payment gateways (PayPal, Stripe, Razorpay)[cite: 27].</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/Payment-Stripe_|_PayPal-blueviolet?style=flat-square" alt="Payments" />
     </td>
@@ -67,14 +67,14 @@ Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Praya
   <tr>
     <td width="50%" valign="top">
       <h3>🏨 Ganga Inn Portal</h3>
-      <p>A premium hospitality web application focused on optimized core booking journeys, custom multi-viewport layouts, and flawless custom reservation routines.</p>
+      <p>A premium hospitality web application focused on optimized core booking journeys, custom multi-viewport layouts, and flawless custom reservation routines[cite: 14].</p>
       <img src="https://img.shields.io/badge/WordPress_Core-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
       <img src="https://img.shields.io/badge/PHP_Hooks-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/UX-Optimized-success?style=flat-square" alt="UX" />
     </td>
     <td width="50%" valign="top">
       <h3>📦 MyWrap E-Commerce</h3>
-      <p>Highly custom e-commerce solution enabling complex, granular product variation rules, bespoke user layouts, and smooth dynamic checkout behavior via WooCommerce.</p>
+      <p>Highly custom e-commerce solution enabling complex, granular product variation rules, bespoke user layouts, and smooth dynamic checkout behavior via WooCommerce[cite: 15, 18].</p>
       <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
       <img src="https://img.shields.io/badge/ACF_Pro-8A3391?style=flat-square" alt="ACF Pro" />
     </td>
@@ -105,11 +105,12 @@ Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Praya
 
 ---
 
-## 🏆 Achievements & GitHub Milestones
+## 🏆 Achievements & Milestones
 
-<div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=itsankityadav&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Ankit's Trophies" width="100%" style="max-width: 850px;" />
-</div>
+* [cite_start]🎓 **Hackathon Representative:** Selected to represent the college engineering cohort at the **CodeChanakya Hackathon (2022)**[cite: 44].
+* [cite_start]📜 **Backend Specialization:** Earned an official **Web-Backend Development Certificate** from United College of Engineering & Management[cite: 41].
+* [cite_start]🤖 **AI Exploration:** Successfully completed the **AI & Machine Learning Certification** under Robustresults Pvt Ltd[cite: 42].
+* [cite_start]🔒 **Security Foundations:** Certified in **Cyber Security Fundamentals** by IIT Prutor[cite: 43].
 
 ---
 
@@ -134,5 +135,5 @@ Hi, I'm **Ankit Yadav**, a dedicated **Full-Stack Web Developer** based in Praya
 <div align="center">
   <sub>Open to complex full-stack challenges, custom WordPress workflows, and premium plugin engineering.</sub><br/>
   <sub><strong>Let's build scalable systems together.</strong></sub><br/><br/>
-  <sub><em>Ankit Yadav · Full-Stack Developer · Prayagraj, Uttar Pradesh, India</em></sub>
+  [cite_start]<sub><em>Ankit Yadav · Full-Stack Developer · Prayagraj, Uttar Pradesh, India [cite: 1, 3]</em></sub>
 </div>
