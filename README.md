@@ -10,8 +10,6 @@
 
 <!-- ======================= INTRODUCTION ======================= -->
 
-<h1 align="center">Hi, I'm Ankit Yadav 👋</h1>
-
 <h3 align="center">
   Full-Stack Web Developer from Prayagraj, India
 </h3>
