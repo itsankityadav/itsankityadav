@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png"
+    src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/About-Us.png"
     alt="Ankit Yadav — Full-Stack Web Developer"
     width="100%"
   />
