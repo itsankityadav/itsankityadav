@@ -1,135 +1,370 @@
-<img src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png" alt="Ankit Yadav Banner" width="100%" />
+<!-- ======================= HERO BANNER ======================= -->
 
-<div align="center">
-  <h1>👨‍💻 Hi, I'm Ankit Yadav</h1>
-  <h3>Full-Stack Web Developer crafting digital experiences from Prayagraj, India</h3>
-  
-  <p>
-    <a href="https://linkedin.com/in/itsankityadav" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:itsankityadav.ltd@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://github.com/itsankityadav" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/itsankityadav/itsankityadav/refs/heads/main/itsankityadav_banner.png"
+    alt="Ankit Yadav — Full-Stack Web Developer"
+    width="100%"
+  />
+</p>
+
+<!-- ======================= INTRODUCTION ======================= -->
+
+<h1 align="center">Hi, I'm Ankit Yadav 👋</h1>
+
+<h3 align="center">
+  Full-Stack Web Developer from Prayagraj, India
+</h3>
+
+<p align="center">
+  I build secure, scalable and user-focused web applications using
+  <strong>PHP, Laravel, WordPress, JavaScript and React.js</strong>.
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+WordPress+Developer;React.js+%7C+Next.js+Learner;Custom+Themes+%26+Plugin+Developer;Building+Secure+and+Scalable+Web+Applications"
+    alt="Typing animation"
+  />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/itsankityadav">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:itsankityadav.ltd@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
+  </a>
+  <a href="https://github.com/itsankityadav">
+    <img 
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=itsankityadav&label=Profile%20Views&color=0ea5e9&style=flat-square"
+    alt="Profile views"
+  />
+  <img 
+    src="https://img.shields.io/github/followers/itsankityadav?label=Followers&style=flat-square&color=0ea5e9"
+    alt="GitHub followers"
+  />
+</p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-Passionate **Full-Stack Web Developer** with hands-on experience building production-grade web applications. I love turning complex problems into clean, scalable, and user-friendly digital solutions.
+I am a passionate **Full-Stack Web Developer** with professional experience in developing responsive websites, custom content management solutions and database-driven web applications.
 
-- 💼 Ex **Junior Full Stack Web Developer** at **Westonik**
-- 🛠️ Specialized in **Laravel, Custom WordPress (Themes + Plugins)**, Core PHP & Modern Frontend
-- ⚡ Currently leveling up with **React.js, Next.js, Node.js** and advanced animations (GSAP)
-- 🔥 Strong focus on performance, clean architecture, secure payments & database optimization
+I enjoy transforming business requirements into clean, secure and maintainable digital products.
 
----
-
-### 🛠️ Tech Stack
-
-**Currently Mastering**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
-
-**Backend & CMS Powerhouse**
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-</p>
-
-**Tools & Workflow**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+* 💼 Former **Junior Full-Stack Web Developer** at **Westonik**
+* 🧩 Experienced in **custom WordPress themes and plugins**
+* ⚙️ Building web applications using **Laravel, Core PHP and MySQL**
+* 🎨 Developing responsive interfaces with **JavaScript, React.js and Tailwind CSS**
+* 🔐 Interested in secure authentication, payment integrations and API development
+* 📈 Focused on performance optimization, clean architecture and maintainable code
+* 🌱 Currently improving my knowledge of **React.js, Next.js, Node.js and GSAP**
+* 🤝 Open to full-time roles, remote opportunities and meaningful collaborations
 
 ---
 
-### 💼 Featured Projects
+## 🧰 Technical Skills
 
-<table width="100%">
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" alt="Backend technologies" />
+</p>
+
+### CMS and E-commerce
+
+<p>
+  <img 
+    src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"
+    alt="WordPress"
+  />
+  <img 
+    src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"
+    alt="WooCommerce"
+  />
+  <img 
+    src="https://img.shields.io/badge/ACF-00E4BC?style=for-the-badge&logo=wordpress&logoColor=white"
+    alt="Advanced Custom Fields"
+  />
+  <img 
+    src="https://img.shields.io/badge/Custom_Themes-1E293B?style=for-the-badge&logo=wordpress&logoColor=white"
+    alt="Custom WordPress Themes"
+  />
+  <img 
+    src="https://img.shields.io/badge/Custom_Plugins-334155?style=for-the-badge&logo=wordpress&logoColor=white"
+    alt="Custom WordPress Plugins"
+  />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" alt="Development tools" />
+</p>
+
+### Core Competencies
+
+```text
+REST API Development        Authentication and Authorization
+Object-Oriented PHP         Responsive Web Development
+Database Design             Payment Gateway Integration
+Custom WordPress Development
+AJAX and Form Handling      Git and GitHub Workflow
+Security Best Practices     Performance Optimization
+```
+
+---
+
+## 💼 Professional Experience
+
+### Junior Full-Stack Web Developer — Westonik
+
+Worked on client websites and custom web solutions across hospitality, e-commerce and agriculture domains.
+
+**Key responsibilities:**
+
+* Developed and maintained responsive WordPress websites
+* Customized themes based on business and design requirements
+* Implemented reusable sections using custom fields
+* Developed and modified WordPress plugins
+* Worked with PHP, MySQL, JavaScript, HTML and CSS
+* Improved website responsiveness, usability and performance
+* Resolved frontend, backend and database-related issues
+* Collaborated on live client projects and production updates
+
+---
+
+## 🚀 Featured Projects
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 Multi-Vendor Marketplace</h3>
-      <p>Laravel 11 based digital asset marketplace with <strong>KYC verification</strong>, multi-level categories, secure file storage, and automated email system.</p>
-      <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <h3>🛒 Multi-Vendor Digital Marketplace</h3>
+      <p>
+        A Laravel-based marketplace where multiple vendors can manage and sell
+        digital products through a secure and structured platform.
+      </p>
+      <p>
+        <strong>Key features:</strong>
+      </p>
+      <ul>
+        <li>Vendor registration and KYC verification</li>
+        <li>Admin, vendor and customer dashboards</li>
+        <li>Multi-level product categories</li>
+        <li>Secure digital file management</li>
+        <li>Order and payment management</li>
+        <li>Automated email notifications</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 11" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>💼 Advanced Job Portal</h3>
-      <p>Multi-auth (Admin + Company + Candidate) job platform with subscription system and payment integration (Stripe, PayPal, Razorpay).</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Payments-blueviolet?style=flat-square" />
+      <p>
+        A multi-role recruitment platform connecting administrators, companies
+        and candidates through dedicated dashboards and workflows.
+      </p>
+      <p>
+        <strong>Key features:</strong>
+      </p>
+      <ul>
+        <li>Admin, company and candidate authentication</li>
+        <li>Job posting and application management</li>
+        <li>Candidate profile and resume management</li>
+        <li>Subscription and package system</li>
+        <li>Stripe, PayPal and Razorpay integration</li>
+        <li>Advanced job search and filtering</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+        <img src="https://img.shields.io/badge/Payments-7C3AED?style=flat-square" alt="Payment integration" />
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 Job Portal (Core PHP)</h3>
-      <p>Pure OOP PHP + PDO architecture with CV builder, boolean search, and secure session management.</p>
-      <img src="https://img.shields.io/badge/Core_PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/PDO_MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <h3>🎯 OOP PHP Job Portal</h3>
+      <p>
+        A recruitment application developed using Core PHP, PDO and an
+        object-oriented architecture without relying on a framework.
+      </p>
+      <p>
+        <strong>Key features:</strong>
+      </p>
+      <ul>
+        <li>Custom MVC-style architecture</li>
+        <li>Secure PDO database operations</li>
+        <li>Role-based access control</li>
+        <li>Candidate CV builder</li>
+        <li>Boolean job search</li>
+        <li>CSRF and secure session handling</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Core_PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Core PHP" />
+        <img src="https://img.shields.io/badge/OOP-334155?style=flat-square" alt="Object-oriented programming" />
+        <img src="https://img.shields.io/badge/PDO_MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="PDO MySQL" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏨 Ganga Inn • MyWrap • Agrivision</h3>
-      <p>Live client projects built with custom WordPress themes & plugins at Westonik.</p>
-      <strong>Hospitality • E-commerce • Agriculture Portal</strong>
+      <h3>🌐 Client WordPress Projects</h3>
+      <p>
+        Developed and maintained live business websites during my professional
+        experience at Westonik.
+      </p>
+      <p>
+        <strong>Selected projects:</strong>
+      </p>
+      <ul>
+        <li><strong>Ganga Inn</strong> — Hospitality website</li>
+        <li><strong>MyWrap</strong> — E-commerce platform</li>
+        <li><strong>Agrivision</strong> — Agriculture-focused portal</li>
+      </ul>
+      <p>
+        Worked on custom layouts, responsive interfaces, content management,
+        theme customization and business-specific functionality.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+        <img src="https://img.shields.io/badge/Custom_Themes-1E293B?style=flat-square" alt="Custom themes" />
+        <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Analytics
+## 🔨 Currently Building
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsankityadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=tokyonight&hide_border=true" alt="Streak" width="70%" />
-</div>
-
----
-
-### 🏆 Achievements
-
-- **Hackathon Representative** – CodeChanakya Hackathon 2022
-- **Web Backend Development Certificate** – United College of Engineering & Management
-- **AI & Machine Learning Certification** – Robustresults Pvt Ltd
-- **Cyber Security Fundamentals** – IIT Prutor
+* Headless WordPress applications with React.js
+* Advanced custom WordPress plugins
+* Secure Laravel applications with role-based access
+* REST APIs for frontend and mobile applications
+* Subscription and payment-management systems
+* Reusable React components and dashboard interfaces
 
 ---
 
-### 🤝 Let's Connect & Build Something Great
+## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://linkedin.com/in/itsankityadav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Ankit Yadav GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsankityadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=itsankityadav&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+---
+
+## 🏆 Certifications and Achievements
+
+| Achievement                                                | Organization                                 |
+| ---------------------------------------------------------- | -------------------------------------------- |
+| Hackathon Representative — CodeChanakya Hackathon 2022     | CodeChanakya                                 |
+| Web Backend Development Certificate                        | United College of Engineering and Management |
+| Artificial Intelligence and Machine Learning Certification | Robustresults Pvt. Ltd.                      |
+| Cyber Security Fundamentals                                | IIT Prutor                                   |
+
+---
+
+## 🎯 Development Philosophy
+
+```text
+Write clean code.
+Build secure systems.
+Create useful experiences.
+Keep learning continuously.
+```
+
+I believe a successful application should not only look good—it should also be secure, accessible, responsive, maintainable and easy to use.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  I am open to full-time development roles, remote opportunities,
+  freelance projects and technical collaborations.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/itsankityadav">
+    <img
+      src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
   </a>
   <a href="mailto:itsankityadav.ltd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Send an email"
+    />
   </a>
-  <a href="https://github.com/itsankityadav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/itsankityadav">
+    <img
+      src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore GitHub profile"
+    />
   </a>
-</div>
+</p>
 
-<br>
-<div align="center">
-  <sub><strong>Open for freelance, full-time opportunities & exciting collaborations.</strong></sub><br>
-  <sub>Ankit Yadav • Full-Stack Web Developer • Prayagraj, Uttar Pradesh</sub>
-</div>
+<br />
+
+<p align="center">
+  <strong>Thanks for visiting my GitHub profile!</strong>
+</p>
+
+<p align="center">
+  <sub>
+    Ankit Yadav · Full-Stack Web Developer · Prayagraj, Uttar Pradesh, India
+  </sub>
+</p>
