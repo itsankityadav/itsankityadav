@@ -272,39 +272,6 @@ Worked on client websites and custom web solutions across hospitality, e-commerc
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=itsankityadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Ankit Yadav GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsankityadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most used programming languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=itsankityadav&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsankityadav&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
----
-
 ## 🏆 Certifications and Achievements
 
 | Achievement                                                | Organization                                 |
